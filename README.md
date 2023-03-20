@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HuYang990407/HuYang990407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+// Front_End
+
+// namespace HuYang
+
+class About extends Me
+{
+  getCurrentWorkplace() 
+  {
+    return {
+      workplace: {
+        company: 'wowjoy',
+        position: 'Chongqing China'
+      }
+    }
+  }
+
+  getDailyKnowledge()
+  {
+    return [
+      HTML,
+      CSS,
+      JavaScript,
+      ECMAScript,
+      TypeScript,
+      Vue,
+      Webpack,
+      uni-app
+    ]
+  }
+
+  getFutureGoal()
+  {
+    return 'Everything is the best arrangement.';
+  } 
+}
