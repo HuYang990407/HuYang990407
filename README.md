@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 // Front_End
 
 // namespace HuYang
@@ -47,3 +48,7 @@ class About extends Me
     return 'Everything is the best arrangement.';
   } 
 }
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuYang990407&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuYang990407&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
